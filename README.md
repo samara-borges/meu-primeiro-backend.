@@ -1,4 +1,5 @@
-Meu Primeiro Projeto Backend - Advinhação v2.0
+Meu Primeiro Projeto Backend 
+- Advinhação v2.0
 ​Este é um jogo de adivinhação desenvolvido em Python que agora conta com sistemas avançados de jogabilidade!
 ​Novas Funcionalidades:
 ​Níveis de Dificuldade (Levels): Escolha entre Easy, Medium ou Hard para definir o número de tentativas.
