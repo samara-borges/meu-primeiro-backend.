@@ -7,4 +7,5 @@ Meu Primeiro Projeto Backend - Advinhação v2.0
 ​ Tecnologias Utilizadas:
 ​Python 3
 ​Git & GitHub para versionamento
+
 ​Inglês Técnico aplicado à interface
